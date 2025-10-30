@@ -1,16 +1,16 @@
 # Sierra Method
 
-[![Build Status](https://github.com/fireforce6/template/actions/workflows/ci.yml/badge.svg)](https://github.com/fireforce6/template/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/fireforce6/template?label=Release)](https://github.com/fireforce6/template/releases/latest)
+[![Build Status](https://github.com/fireforce6/copilot-environment/actions/workflows/ci.yml/badge.svg)](https://github.com/fireforce6/copilot-environment/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/fireforce6/copilot-environment?label=Release)](https://github.com/fireforce6/copilot-environment/releases/latest)
 
 
-An [OML](https://github.com/opencaesar/oml)-based description for modeling and analyzing the Template project.
+An [OML](https://github.com/opencaesar/oml)-based description for modeling and analyzing the Copilot Environment project.
 
 ## Clone
 
 ```bash
-git clone https://github.com/fireforce6/template.git
-cd template
+git clone https://github.com/fireforce6/copilot-environment.git
+cd copilot-environment
 ```
 
 ## Setup
@@ -93,7 +93,7 @@ Publish the OML dataset as an archive to Maven Local:
 The archive will be available at:
 
 ```bash
-ls ~/.m2/repository/io/github/fireforce6/template
+ls ~/.m2/repository/io/github/fireforce6/copilot-environment
 ```
 
 ## License
