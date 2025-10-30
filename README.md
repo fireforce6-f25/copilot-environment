@@ -1,7 +1,7 @@
-# Sierra Method
+# CoPilot Environment
 
-[![Build Status](https://github.com/fireforce6/copilot-environment/actions/workflows/ci.yml/badge.svg)](https://github.com/fireforce6/copilot-environment/actions/workflows/ci.yml)
-[![Release](https://img.shields.io/github/v/release/fireforce6/copilot-environment?label=Release)](https://github.com/fireforce6/copilot-environment/releases/latest)
+[![Build Status](https://github.com/fireforce6-f25/copilot-environment/actions/workflows/ci.yml/badge.svg)](https://github.com/fireforce6-f25/copilot-environment/actions/workflows/ci.yml)
+[![Release](https://img.shields.io/github/v/release/fireforce6-f25/copilot-environment?label=Release)](https://github.com/fireforce6-f25/copilot-environment/releases/latest)
 
 
 An [OML](https://github.com/opencaesar/oml)-based description for modeling and analyzing the Copilot Environment project.
